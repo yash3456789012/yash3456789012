@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=200&color=AFC8AD&random=false&width=435&lines=Hi%2C+I'm+Shivam+%F0%9F%91%8B%F0%9F%8F%BC;Connect+with+me!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=200&color=AFC8AD&random=false&width=435&lines=Hi%2C+I'm+Yash+%F0%9F%91%8B%F0%9F%8F%BC;Connect+with+me!)](https://git.io/typing-svg)  
 [![Twitter](https://skillicons.dev/icons?i=twitter)]()
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yash-gupta-0910ba272/)
 
@@ -16,7 +16,7 @@
 
 ## Technologies
  
-<img src = "https://skillicons.dev/icons?i=mysql,html,css,js,bootstrap,python,powerbi,mongodb,php,django,postgres&theme=dark" >
+<img src = "https://skillicons.dev/icons?i=mysql,html,css,js,bootstrap,python,mongodb,php,django,postgres&theme=dark" >
 <img src = "https://skillicons.dev/icons?i=vscode,powerbi,excel,github&theme=dark">
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
