@@ -14,6 +14,12 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
+<img src="https://raw.githubusercontent.com/yash3456789012/yash3456789012/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
 ## Technologies
  
 <img src = "https://skillicons.dev/icons?i=mysql,html,css,js,bootstrap,python,mongodb,php,django,postgres&theme=dark" >
