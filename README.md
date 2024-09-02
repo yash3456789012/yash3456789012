@@ -16,7 +16,7 @@
 
 ## Technologies
  
-<img src = "https://skillicons.dev/icons?i=mysql,html,css,js,bootstrap,python,mongodb,php,django,cisco packet tracer, ostgres&theme=dark" >
+<img src = "https://skillicons.dev/icons?i=mysql,html,css,js,bootstrap,python,mongodb,php,django,postgres&theme=dark" >
 <img src = "https://skillicons.dev/icons?i=vscode,powerbi,excel,github&theme=dark">
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
